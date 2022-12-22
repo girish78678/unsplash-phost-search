@@ -70,7 +70,8 @@ button {
 }
 
 .icn-search {
-    font-weight: 700;
+    font-weight: 500;
+    font-family: sans-serif;
 }
 
 .icon-img {
