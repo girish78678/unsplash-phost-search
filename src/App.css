@@ -89,8 +89,10 @@ button {
 }
 
 .img-list a {
-    display: block;
+    display: flexbox;
     margin: auto;
+    justify-content: center;
+    align-items: center;
 }
 
 .img-wrap {
